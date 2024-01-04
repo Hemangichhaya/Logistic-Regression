@@ -6,11 +6,10 @@ The data science team at LoanTap is building an underwriting layer to determine 
 
 LoanTap deploys formal credit to salaried individuals and businesses 4 main financial instruments:
 
-  1 .Personal Loan<br>
+  1. Personal Loan<br>
   2. EMI Free Loan<br>
   3. Personal Overdraft<br>
-  4. Advance Salary Loan
-  <br>
+  4. Advance Salary Loan<br>
 This case study will focus on the underwriting process behind Personal Loan only
 # Recommendations
 * The optimal strategy to achieve the objective of balancing the risk of increasing NPAs by disbursing loans to defaulters with the opportunity to earn interest by disbursing loans to as many worthy customers as possible: maximise the F1 score along with the area under Precision Recall Curve (precision-recall trade-off).
